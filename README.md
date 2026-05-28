@@ -1,4 +1,4 @@
-# Characteristics of the Topological Structure of Language as Observed in Non-Standard Speakers
+# Topological Structure in Native and Non-Standard Language
 
 
 The project investigates whether second-language learners and heritage speakers position themselves differently relative to persistent semantic structures (*H₁ holes*) in the embedding space of a language. The study combines methods from:
